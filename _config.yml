@@ -10,7 +10,7 @@ description: >-
 
 # Change <username> to your GitHub username
 baseurl: ""
-url: "https://<username>.github.io"
+url: "https://nisch24.github.io"
 
 # Theme (GitHub Pages compatible)
 remote_theme: pages-themes/minimal@v0.2.0
