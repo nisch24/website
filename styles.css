@@ -193,6 +193,29 @@ header {
   color: #fff;
 }
 
+.btn-link-secondary {
+  background: transparent;
+  color: var(--accent-secondary);
+  border-color: var(--accent-secondary);
+}
+
+.btn-link-secondary:hover {
+  background: var(--accent-secondary);
+  color: #fff;
+}
+
+.card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+.card-actions .btn-link {
+  margin-top: 0;
+}
+
 /* Sections */
 section {
   padding: 6rem 2rem;
